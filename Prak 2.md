@@ -173,8 +173,18 @@
      mkdir laravel/
      cd laravel/
      ```
-     
-     
+     ![1](https://user-images.githubusercontent.com/78127403/144485504-b86a2c70-8e0a-4b3d-87b7-5ea6d61b3f21.jpg)
+
+     ![3](https://user-images.githubusercontent.com/78127403/144485508-9209c792-2ead-42b3-9f8e-2b20dc583994.jpg)
+
+     ![2](https://user-images.githubusercontent.com/78127403/144485751-beaceef7-db91-49fe-b2b6-256c5a6107e8.jpg)
+
+   - Install PHP
+     ```
+     ![4](https://user-images.githubusercontent.com/78127403/144486023-d1faa200-c864-469a-9c6b-535dacc53b1f.jpg)
+
+     ![5](https://user-images.githubusercontent.com/78127403/144486029-42bb946e-d0a8-44e5-afa7-bc87c6a8e512.jpg)
+
      
 
    - membuat hosts untuk lxc
@@ -301,7 +311,12 @@
            recurse: yes
      ```
 
-     
+     ![11](https://user-images.githubusercontent.com/78127403/144486458-0d312880-2fce-4441-b129-0a91875ed674.jpg)
+
+     ![9](https://user-images.githubusercontent.com/78127403/144486464-4ed0d0d1-abf0-4bf9-911c-d663b06d3a94.jpg)
+
+     ![10](https://user-images.githubusercontent.com/78127403/144486466-66d55228-905b-4dca-a3f2-db15a64f2b32.jpg)
+
 
    - instalasi
      ```
