@@ -167,12 +167,8 @@
 
 3. **vm.local/**
 
-   - masuk ansible untuk install laravel
-     ```
-     cd ~/ansible/
-     mkdir laravel/
-     cd laravel/
-     ```
+   - Masuk ke modul2-ansible dan buat file baru dengan nama install-laravel.yml
+    
      ![1](https://user-images.githubusercontent.com/78127403/144485504-b86a2c70-8e0a-4b3d-87b7-5ea6d61b3f21.jpg)
 
      ![3](https://user-images.githubusercontent.com/78127403/144485508-9209c792-2ead-42b3-9f8e-2b20dc583994.jpg)
